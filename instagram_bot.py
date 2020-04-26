@@ -82,7 +82,7 @@ for hashtag in hashtag_list:
 
                         button_like.click()
                         likes += 1
-                        sleep(randint(20, 60))
+                        sleep(randint(20, 55))
 
                         # Comments and tracker
                         comm_prob = randint(1, 10)
